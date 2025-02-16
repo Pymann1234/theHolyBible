@@ -19,8 +19,11 @@ Bible Verse Search is a web application that allows users to search for Bible ve
 
 ## 📸 Screenshots
 
+### 🔹 Light Mode
+![Light Mode](screenshots/lightMode.png)
 
-
+### 🔹 Dark Mode
+![Dark Mode](screenshots/darkmode.png)
 
 ## 🚀 Installation & Setup
 
