@@ -1,4 +1,4 @@
-# Bible Verse Search
+# The Holy Bible
 
 Bible Verse Search is a web application that allows users to search for Bible verses using either a manual text search or a dropdown-based selection. The app fetches data from the Bible API and supports dark mode for a better user experience.
 
@@ -30,8 +30,8 @@ Bible Verse Search is a web application that allows users to search for Bible ve
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/bible-verse-search.git
-   cd bible-verse-search
+   git clone https://github.com/yourusername/theHolyBible.git
+   cd theHolyBible
    ```
 
 2. **Install dependencies:**
@@ -77,7 +77,7 @@ GET https://bible-api.com/John%203:16?translation=kjv
 
 ## 💡 Future Enhancements
 
-- 📜 **Multiple Translations** - Add support for other Bible translations.
+- 📜 **Multiple Translations** - Add support for other Bible translations, (currently using KJV).
 - 🔖 **Bookmark Feature** - Allow users to save favorite verses.
 - 📢 **Share Verses** - Add a feature to share verses on social media.
 
