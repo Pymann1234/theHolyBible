@@ -23,7 +23,7 @@ Bible Verse Search is a web application that allows users to search for Bible ve
 ![Light Mode](screenshots/lightMode.PNG)
 
 ### 🔹 Dark Mode
-![Dark Mode](screenshots/darkmode.PNG)
+![Dark Mode](screenshots/darkmode.png)
 
 ## 🚀 Installation & Setup
 
