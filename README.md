@@ -2,6 +2,8 @@
 
 Bible Verse Search is a web application that allows users to search for Bible verses using either a manual text search or a dropdown-based selection. The app fetches data from the Bible API and supports dark mode for a better user experience.
 
+## 🚀 Live Demo - https://bible-alpha.vercel.app/
+
 ## 🚀 Features
 
 - 🔍 **Search by Book, Chapter, and Verse**: Enter queries like `John 3:16` to fetch specific verses.
